@@ -9,7 +9,7 @@ I'm a Chilean **Full Stack Developer** passionate about building *efficient* and
 
 ## ⚙️ Technical Check ⚙️
 I love working with these **Nuxt/Vue**, **Svelte**, **Flutter/Dart** and **Django/Python**.
-> 🌟 If you want to know the full list of my known languages and frameworks by level of knowledge click [here](https://github.com/BFCW-Was/BFCW-Was/Knowledge.md)!
+> 🌟 If you want to know the full list of my known languages and frameworks by level of knowledge click [here](https://github.com/BFCW-Was/BFCW-Was/blob/master/Knowledge.md)!
 
 <br>
 
