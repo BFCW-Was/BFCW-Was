@@ -34,11 +34,11 @@ In this file I display all (if I didn't forget anything) of the tools and langua
 > 
 > [![Laravel](https://img.shields.io/badge/Laravel-13030B?logo=laravel&logoColor=white&style=flat-square)![](https://progress-bar.xyz/8/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://laravel.com)
 > 
-> [![Express.js](https://img.shields.io/badge/Express.js-13030B?logo=express&logoColor=white&style=flat-square)![](https://progress-bar.xyz/7/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://expressjs.com)
+> [![Express.js](https://img.shields.io/badge/Express.js-13030B?logo=express&logoColor=white&style=flat-square)![](https://progress-bar.xyz/4/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://expressjs.com)
 > 
-> [![Django](https://img.shields.io/badge/Django-13030B?logo=django&logoColor=white&style=flat-square)![](https://progress-bar.xyz/1/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://www.djangoproject.com)
+> [![Django](https://img.shields.io/badge/Django-13030B?logo=django&logoColor=white&style=flat-square)![](https://progress-bar.xyz/3/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://www.djangoproject.com)
 > 
-> [![NestJS](https://img.shields.io/badge/NestJS-13030B?logo=nestjs&logoColor=white&style=flat-square)![](https://progress-bar.xyz/2/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://nestjs.com)
+> [![NestJS](https://img.shields.io/badge/NestJS-13030B?logo=nestjs&logoColor=white&style=flat-square)![](https://progress-bar.xyz/5/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://nestjs.com)
 
 ## 📝 Programming Languages:
 > [![Python](https://img.shields.io/badge/Python-13030B?logo=python&logoColor=white&style=flat-square)![](https://progress-bar.xyz/9/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://www.python.org)
@@ -52,6 +52,8 @@ In this file I display all (if I didn't forget anything) of the tools and langua
 > [![SQL](https://img.shields.io/badge/SQL-13030B?logo=sqlite&logoColor=white&style=flat-square)![](https://progress-bar.xyz/7/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://www.w3schools.com/sql/)
 > 
 > [![C++](https://img.shields.io/badge/C%2B%2B-13030B?logo=cplusplus&logoColor=white&style=flat-square)![](https://progress-bar.xyz/6/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://isocpp.org)
+> 
+> [![Rust](https://img.shields.io/badge/C%2B%2B-13030B?logo=rust&logoColor=white&style=flat-square)![](https://progress-bar.xyz/4/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://isocpp.org)
 > 
 > [![Java](https://img.shields.io/badge/Java-13030B?logo=java&logoColor=white&style=flat-square)![](https://progress-bar.xyz/6/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://www.java.com)
 > 
