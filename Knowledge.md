@@ -53,7 +53,7 @@ In this file I display all (if I didn't forget anything) of the tools and langua
 > 
 > [![C++](https://img.shields.io/badge/C%2B%2B-13030B?logo=cplusplus&logoColor=white&style=flat-square)![](https://progress-bar.xyz/6/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://isocpp.org)
 > 
-> [![Rust](https://img.shields.io/badge/C%2B%2B-13030B?logo=rust&logoColor=white&style=flat-square)![](https://progress-bar.xyz/4/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://isocpp.org)
+> [![Rust](https://img.shields.io/badge/Rust-13030B?logo=rust&logoColor=white&style=flat-square)![](https://progress-bar.xyz/4/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://rust-lang.org/)
 > 
 > [![Java](https://img.shields.io/badge/Java-13030B?logo=java&logoColor=white&style=flat-square)![](https://progress-bar.xyz/6/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://www.java.com)
 > 
