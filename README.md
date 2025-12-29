@@ -39,3 +39,4 @@ I'm currently working on a personal project called **Turin** with [Ashly Mazuela
 - I hope to launch a game someday! ⌨️🎮🕹️
 - My dream has always been to work as a detective 🍮 or any kind of investigation, although I only recently discovered it, it made a lot of things make sense.
 - Im fluent in English y en Español.
+- Preferred Stack: Vue3 - Laravel (PHP) - PostgreSQL - Vite (NodeJS). Even though, it depends on the scale of the application 😣
