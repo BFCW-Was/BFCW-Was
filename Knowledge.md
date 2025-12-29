@@ -73,7 +73,7 @@ In this file I display all (if I didn't forget anything) of the tools and langua
 > [![MongoDB](https://img.shields.io/badge/MongoDB-13030B?logo=mongodb&logoColor=white&style=flat-square)![](https://progress-bar.xyz/5/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://www.mongodb.com)
 
 ## ☁️ Cloud Services and Production Tools:
-> [![Docker](https://img.shields.io/badge/Docker-13030B?logo=docker&logoColor=white&style=flat-square)![](https://progress-bar.xyz/7/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://www.docker.com)
+> [![Docker](https://img.shields.io/badge/Docker-13030B?logo=docker&logoColor=white&style=flat-square)![](https://progress-bar.xyz/6/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://www.docker.com)
 > 
 > [![AWS](https://img.shields.io/badge/AWS-13030B?logo=amazonaws&logoColor=white&style=flat-square)![](https://progress-bar.xyz/7/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://aws.amazon.com)
 > 
