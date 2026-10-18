@@ -15,25 +15,25 @@ PS: I'm not using versions on these mainly because I pretend to stay updated on 
 
 > [![Vue](https://img.shields.io/badge/Vue-13030B?logo=vue.js&logoColor=white&style=flat-square)![](https://progress-bar.xyz/8/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://vuejs.org)
 >
-> [![Nuxt](https://img.shields.io/badge/Nuxt-13030B?logo=nuxt&logoColor=white&style=flat-square)![](https://progress-bar.xyz/7/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://nuxtjs.org)
+> [![Nuxt](https://img.shields.io/badge/Nuxt-13030B?logo=nuxt&logoColor=white&style=flat-square)![](https://progress-bar.xyz/8/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://nuxtjs.org)
 >
 > [![Flutter](https://img.shields.io/badge/Flutter-13030B?logo=flutter&logoColor=white&style=flat-square)![](https://progress-bar.xyz/8/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://flutter.dev)
 >
-> [![Svelte](https://img.shields.io/badge/Svelte-13030B?logo=svelte&logoColor=white&style=flat-square)![](https://progress-bar.xyz/5/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://svelte.dev)
+> [![Svelte](https://img.shields.io/badge/Svelte-13030B?logo=svelte&logoColor=white&style=flat-square)![](https://progress-bar.xyz/7/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://svelte.dev)
 >
-> [![Angular](https://img.shields.io/badge/Angular-13030B?logo=angular&logoColor=white&style=flat-square)![](https://progress-bar.xyz/4/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://angular.io)
+> [![Angular](https://img.shields.io/badge/Angular-13030B?logo=angular&logoColor=white&style=flat-square)![](https://progress-bar.xyz/6/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://angular.io)
 >
-> [![React](https://img.shields.io/badge/React-13030B?logo=react&logoColor=white&style=flat-square)![](https://progress-bar.xyz/4/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://reactjs.org)
+> [![React](https://img.shields.io/badge/React-13030B?logo=react&logoColor=white&style=flat-square)![](https://progress-bar.xyz/5/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://reactjs.org)
 >
 > [![React Native](https://img.shields.io/badge/React%20Native-13030B?logo=react&logoColor=white&style=flat-square)![](https://progress-bar.xyz/4/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://reactnative.dev)
 
 ## 🎨 Design Frameworks:
 
+> [![Bootstrap](https://img.shields.io/badge/Bootstrap-13030B?logo=bootstrap&logoColor=white&style=flat-square)![](https://progress-bar.xyz/9/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://getbootstrap.com)
+>
+> [![Tailwind](https://img.shields.io/badge/Tailwind-13030B?logo=tailwindcss&logoColor=white&style=flat-square)![](https://progress-bar.xyz/8/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://tailwindcss.com)
+>
 > [![Vuetify](https://img.shields.io/badge/Vuetify-13030B?logo=vuetify&logoColor=white&style=flat-square)![](https://progress-bar.xyz/6/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://vuetifyjs.com)
->
-> [![Bootstrap](https://img.shields.io/badge/Bootstrap-13030B?logo=bootstrap&logoColor=white&style=flat-square)![](https://progress-bar.xyz/8/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://getbootstrap.com)
->
-> [![Tailwind](https://img.shields.io/badge/Tailwind-13030B?logo=tailwindcss&logoColor=white&style=flat-square)![](https://progress-bar.xyz/5/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://tailwindcss.com)
 
 ## 🔧 Frameworks Back-End:
 
@@ -41,7 +41,7 @@ PS: I'm not using versions on these mainly because I pretend to stay updated on 
 >
 > [![Laravel](https://img.shields.io/badge/Laravel-13030B?logo=laravel&logoColor=white&style=flat-square)![](https://progress-bar.xyz/8/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://laravel.com)
 >
-> [![FastAPI](https://img.shields.io/badge/FastAPI-13030B?logo=fastapi&logoColor=white&style=flat-square)![](https://progress-bar.xyz/7/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://fastapi.tiangolo.com/)
+> [![FastAPI](https://img.shields.io/badge/FastAPI-13030B?logo=fastapi&logoColor=white&style=flat-square)![](https://progress-bar.xyz/8/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://fastapi.tiangolo.com/)
 >
 > [![Express.js](https://img.shields.io/badge/Express.js-13030B?logo=express&logoColor=white&style=flat-square)![](https://progress-bar.xyz/5/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://expressjs.com)
 >
@@ -53,7 +53,9 @@ PS: I'm not using versions on these mainly because I pretend to stay updated on 
 
 > [![Python](https://img.shields.io/badge/Python-13030B?logo=python&logoColor=white&style=flat-square)![](https://progress-bar.xyz/9/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://www.python.org)
 >
-> [![Javascript](https://img.shields.io/badge/Javascript-13030B?logo=javascript&logoColor=white&style=flat-square)![](https://progress-bar.xyz/9/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+> [![JavaScript](https://img.shields.io/badge/JavaScript-13030B?logo=javascript&logoColor=white&style=flat-square)![](https://progress-bar.xyz/9/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+>
+> [![TypeScript](https://img.shields.io/badge/TypeScript-13030B?logo=typescript&logoColor=white&style=flat-square)![](https://progress-bar.xyz/8/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 >
 > [![Dart](https://img.shields.io/badge/Dart-13030B?logo=dart&logoColor=white&style=flat-square)![](https://progress-bar.xyz/9/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://dart.dev)
 >
@@ -87,7 +89,7 @@ PS: I'm not using versions on these mainly because I pretend to stay updated on 
 
 > [![Docker](https://img.shields.io/badge/Docker-13030B?logo=docker&logoColor=white&style=flat-square)![](https://progress-bar.xyz/8/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://www.docker.com)
 >
-> [![AWS](https://img.shields.io/badge/AWS-13030B?logo=amazonaws&logoColor=white&style=flat-square)![](https://progress-bar.xyz/8/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://aws.amazon.com)
+> [![AWS](https://img.shields.io/badge/AWS-13030B?logo=amazonaws&logoColor=white&style=flat-square)![](https://progress-bar.xyz/9/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://aws.amazon.com)
 >
 > [![GCP](https://img.shields.io/badge/GCP-13030B?logo=google-cloud&logoColor=white&style=flat-square)![](https://progress-bar.xyz/4/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://cloud.google.com)
 >
@@ -97,7 +99,7 @@ PS: I'm not using versions on these mainly because I pretend to stay updated on 
 
 > [![Git](https://img.shields.io/badge/Git-13030B?logo=git&logoColor=white&style=flat-square)![](https://progress-bar.xyz/8/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://git-scm.com)
 >
-> [![GitHub](https://img.shields.io/badge/GitHub-13030B?logo=github&logoColor=white&style=flat-square)![](https://progress-bar.xyz/8/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://github.com)
+> [![GitHub](https://img.shields.io/badge/GitHub-13030B?logo=github&logoColor=white&style=flat-square)![](https://progress-bar.xyz/9/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://github.com)
 
 ## 🤖 AI Tools:
 
@@ -105,9 +107,9 @@ PS: I'm not using versions on these mainly because I pretend to stay updated on 
 >
 > [![Gemini](https://img.shields.io/badge/Gemini-13030B?logo=googlegemini&logoColor=white&style=flat-square)![](https://progress-bar.xyz/8/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://gemini.google.com/)
 >
-> [![Copilot](https://img.shields.io/badge/Copilot-13030B?logo=githubcopilot&logoColor=white&style=flat-square)![](https://progress-bar.xyz/7/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://github.com/features/copilot)
+> [![Copilot](https://img.shields.io/badge/Copilot-13030B?logo=githubcopilot&logoColor=white&style=flat-square)![](https://progress-bar.xyz/8/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://github.com/features/copilot)
 >
-> [![DeepSeek](https://img.shields.io/badge/DeepSeek-13030B?logo=deepseek&logoColor=white&style=flat-square)![](https://progress-bar.xyz/6/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://www.deepseek.com/)
+> [![DeepSeek](https://img.shields.io/badge/DeepSeek-13030B?logo=deepseek&logoColor=white&style=flat-square)![](https://progress-bar.xyz/7/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://www.deepseek.com/)
 >
 > [![Perplexity](https://img.shields.io/badge/Perplexity-13030B?logo=perplexity&logoColor=white&style=flat-square)![](https://progress-bar.xyz/7/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://www.perplexity.ai/)
 >
@@ -146,7 +148,7 @@ PS: I'm not using versions on these mainly because I pretend to stay updated on 
 >
 > [![Google Workspace & Docs](https://img.shields.io/badge/Google%20Workspace-13030B?logo=google&logoColor=white&style=flat-square)![](https://progress-bar.xyz/8/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://workspace.google.com)
 >
-> [![Jira](https://img.shields.io/badge/Jira-13030B?logo=jira&logoColor=white&style=flat-square)![](https://progress-bar.xyz/4/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://www.atlassian.com/software/jira)
+> [![Jira](https://img.shields.io/badge/Jira-13030B?logo=jira&logoColor=white&style=flat-square)![](https://progress-bar.xyz/5/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://www.atlassian.com/software/jira)
 
 ## 📢 Overall Communication:
 
@@ -158,15 +160,15 @@ PS: I'm not using versions on these mainly because I pretend to stay updated on 
 
 ## 🖼️ Design:
 
-> [![Figma](https://img.shields.io/badge/Figma-13030B?logo=figma&logoColor=white&style=flat-square)![](https://progress-bar.xyz/9/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://www.figma.com)
+> [![Figma](https://img.shields.io/badge/Figma-13030B?logo=figma&logoColor=white&style=flat-square)![](https://progress-bar.xyz/8/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://www.figma.com)
 >
-> [![Canva](https://img.shields.io/badge/Canva-13030B?logo=canva&logoColor=white&style=flat-square)![](https://progress-bar.xyz/8/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://www.canva.com)
+> [![Canva](https://img.shields.io/badge/Canva-13030B?logo=canva&logoColor=white&style=flat-square)![](https://progress-bar.xyz/7/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://www.canva.com)
 >
-> [![Inkscape](https://img.shields.io/badge/Inkscape-13030B?logo=inkscape&logoColor=white&style=flat-square)![](https://progress-bar.xyz/4/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://inkscape.app/)
+> [![Inkscape](https://img.shields.io/badge/Inkscape-13030B?logo=inkscape&logoColor=white&style=flat-square)![](https://progress-bar.xyz/5/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://inkscape.app/)
 
 ## 📄 Documentation Languages:
 
-> [![Markdown](https://img.shields.io/badge/Markdown-13030B?logo=markdown&logoColor=white&style=flat-square)![](https://progress-bar.xyz/8/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://www.markdownguide.org)
+> [![Markdown](https://img.shields.io/badge/Markdown-13030B?logo=markdown&logoColor=white&style=flat-square)![](https://progress-bar.xyz/9/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://www.markdownguide.org)
 >
 > [![LaTeX](https://img.shields.io/badge/LaTeX-13030B?logo=latex&logoColor=white&style=flat-square)![](https://progress-bar.xyz/8/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://www.latex-project.org)
 
@@ -181,11 +183,11 @@ PS: I'm not using versions on these mainly because I pretend to stay updated on 
 >
 > [![Sublime Text](https://img.shields.io/badge/Sublime%20Text-13030B?logo=sublime-text&logoColor=white&style=flat-square)![](https://progress-bar.xyz/8/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://www.sublimetext.com)
 >
-> [![NetBeans](https://img.shields.io/badge/NetBeans-13030B?logo=apachenetbeanside&logoColor=white&style=flat-square)![](https://progress-bar.xyz/7/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://netbeans.apache.org)
->
 > [![Apple Xcode](https://img.shields.io/badge/Xcode-13030B?logo=xcode&logoColor=white&style=flat-square)![](https://progress-bar.xyz/7/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://developer.apple.com/xcode)
 >
 > [![Android Studio](https://img.shields.io/badge/Android%20Studio-13030B?logo=android-studio&logoColor=white&style=flat-square)![](https://progress-bar.xyz/7/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://developer.android.com/studio)
+>
+> [![NetBeans](https://img.shields.io/badge/NetBeans-13030B?logo=apachenetbeanside&logoColor=white&style=flat-square)![](https://progress-bar.xyz/6/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://netbeans.apache.org)
 >
 > [![PyCharm](https://img.shields.io/badge/PyCharm-13030B?logo=pycharm&logoColor=white&style=flat-square)![](https://progress-bar.xyz/6/?suffix&scale=10&style=square&progress_color=138583&progress_background=FEEFF6&width=250)](https://www.jetbrains.com/pycharm)
 

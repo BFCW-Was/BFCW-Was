@@ -1,6 +1,6 @@
 # 🫡 Hi there!
 
-I'm a Chilean **Full Stack Developer** passionate about building _efficient_ and _scalable_ solutions to innovative challenges.
+I'm a Chilean **Software Architect** and **Full Stack Developer** passionate about building _efficient_ and _scalable_ solutions to innovative challenges.
 
 _Curious by nature_ I often use this space to experiment, test ideas, and stay sharp.
 
@@ -10,7 +10,7 @@ _Curious by nature_ I often use this space to experiment, test ideas, and stay s
 
 ## ⚙️ Technical Check ⚙️
 
-I love working with these **Nuxt/Vue**, **Svelte**, **Flutter/Dart** and **FastAPI/Python**.
+I love working with these **Nuxt/Vue**, **Svelte**, **Flutter/Dart**, **Rust** and **FastAPI/Python**.
 
 > 🌟 If you want to know the full list of my known languages and frameworks by level of knowledge click [here](https://github.com/BFCW-Was/BFCW-Was/blob/master/Knowledge.md)!
 
@@ -68,7 +68,7 @@ I'm currently working on a personal project called **Turin** with [Ashly Mazuela
 
 - When I'm not coding, you'll probably find me **exploring indie games** or playing something on **Steam** (my second IDE) 😶‍🌫️
 - I hope to launch a game someday! ⌨️🎮🕹️
-- Preferred Stack: **Vue3 - Laravel - PostgreSQL**. Even though, it depends on the scale of the application 😣
+- Preferred Stack: **Vue3 - Laravel - PostgreSQL**. Even though, it depends on the scale of the application 😣. Love **Svelte5** for landing pages.
 - I feel pretty comfortable working with **Kanban, Docker and AWS**.
 - I'm fluent in English y en Español.
 - When I was a kid, I never had a solid dream job, partly because I loved so many completely different subjects. Over time I realized that the kind of work that really attracts me is _discover and solve problems_. So maybe I've always dreamed of being a detective or some kind of investigator and, in a way, I am one in every job I do. At least, it made a lot of things make sense to me. 🤍
