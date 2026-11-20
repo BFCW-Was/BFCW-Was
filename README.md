@@ -21,8 +21,8 @@ I love working with these **Nuxt/Vue**, **Svelte**, **Flutter/Dart**, **Rust** a
 I'll leave my stats here, just my public work for now, in the future, they might reflect some of my private work too.
 
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 16px;">
-  <img alt="stats" width="50%" src="https://github-stats-extended.vercel.app/api?username=BFCW-Was&hide_title=true&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=BFCW-Was&hide_title=true&show_icons=true&include_all_commits=true&theme=radical"/>
-  <img alt="lang" width="40%" src="https://github-stats-extended.vercel.app/api/top-langs?username=BFCW-Was&layout=compact&hide_title=true&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=BFCW-Was&layout=compact&hide_title=true&theme=radical"/>
+  <img alt="stats" width="50%" src="https://github-stats-extended.vercel.app/api?username=BFCW-Was&rank_icon=percentile&hide_title=true&show_icons=true&include_all_commits=true&theme=radical"/>
+  <img alt="lang" width="40%" src="https://github-stats-extended.vercel.app/api/top-langs?username=BFCW-Was&layout=compact&hide_title=true&langs_count=6&theme=radical"/>
 </p>
 
 > 🔐 Most of my professional projects live in **private repositories** linked to company-specific profiles, but my passion for clean, maintainable, and scalable code is definitely well known.
